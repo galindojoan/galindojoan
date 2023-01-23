@@ -34,4 +34,10 @@ Y alguna herramienta más concretada en mi sitio web...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joan_Galindo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/galindojoan/)
 [![Web](https://img.shields.io/badge/Web-galindojoan.github.io-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://galindojoan.github.io/pagina-web/)
 </br>
-[![Gmail](https://img.shields.io/badge/Gmail-joangalindo250@gmail.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](joangalindo250@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-joangalindo250@gmail.com-E4400F?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](joangalindo250@gmail.com)
+
+### Prueba mi proyecto de Android Studio Bergants:
+
+[![image](https://user-images.githubusercontent.com/99873094/214172728-ae666f00-19c1-413e-bf52-58b47b70b088.png)](https://play.google.com/store/apps/details?id=cat.copernic.bergants&gl=ES)
+
+Pulsa la imagen para dirigirte a la pantalla de descarga y no olvides valorar la app!
