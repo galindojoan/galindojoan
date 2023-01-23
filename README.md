@@ -33,5 +33,5 @@ Y alguna herramienta más concretada en mi sitio web...
 [![Instagram](https://img.shields.io/badge/Instagram-@joansee_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/joansee_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joan_Galindo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/galindojoan/)
 [![Web](https://img.shields.io/badge/Web-galindojoan.github.io-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://galindojoan.github.io/pagina-web/)
-Gmail: joangalindo250@gmail.com
-
+</br>
+[![Web](https://img.shields.io/badge/Gmail-joangalindo250@gmail.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](joangalindo250@gmail.com)
